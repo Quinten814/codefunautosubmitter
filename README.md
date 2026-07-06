@@ -1,5 +1,5 @@
-# codefun auto submitter
-codefun auto submitter
+# codefun.vn auto submitter
+codefun.vn auto submitter
 
 I wrote this in like 30 minutes so. A lot of errors
 
